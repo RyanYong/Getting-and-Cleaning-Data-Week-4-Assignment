@@ -2,7 +2,7 @@
 
 This repo was created as the assignment for week 4 of Getting and Cleaning Data Coursera course.
 * Step 1: Download and unzip the data file into R working directory.
-* Step 2: Download the R source code into your R working directory.
+* Step 2: Download the R source code into R working directory.
 * Step 3: Execute R source code to generate tidy data file.
 
 ### Data description
